@@ -7,7 +7,6 @@ let ulti = "MARTILLO VA!!!";
 //Array de caracteres, como un split.
 let luis = [...ulti];
 
-
 let a, b, c, otros;
 
 let listita = [23, 56, 78];

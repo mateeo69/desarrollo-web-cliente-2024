@@ -27,7 +27,5 @@ let otro = res.map((ele,pos) => {
     }else{
         return pos;
     }
-
 });
 console.log(otro);
-
